@@ -5,7 +5,6 @@ class CommentsController < ApplicationController
     @comment = Comment.new(comment_params)
     @post = @comment.post
     if @comment.save
-      binding.pry
       respond_to :js
     else
       flash[:alert] = "コメントに失敗しました"
