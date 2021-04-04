@@ -12,6 +12,13 @@ class User < ApplicationRecord
 
   validates :username, uniqueness: true
 
+  def self.guest
+    find_or_create_by!(email: "guest@example.com") do |user|
+      user.password = SecureRandom.urlsafe_base64
+      user.name = "guest"
+    end
+  end
+
   def update_without_current_password(params, *options)
     if params[:password].blank? && params[:password_confirmation].blank?
       params.delete(:password)
