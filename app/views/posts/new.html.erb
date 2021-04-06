@@ -11,13 +11,13 @@
               <%= image_tag avatar_url(current_user), class: "post-profile-icon" %>
             </div>
             <div class="col pl-0">
-              <%= f.text_field :content,autofocus: true, class: "form-control border-1", placeholder: "現場名など" %>
+              <%= f.text_field :user_house_name,autofocus: true, class: "form-control border-1", placeholder: "現場名など" %>
             </div>
 
             <br>
 
              <div class="col pl-0">
-              <%= f.text_field :content, class: "form-control border-1", placeholder: "会社名" %>
+              <%= f.text_field :company_name, class: "form-control border-1", placeholder: "会社名" %>
             </div>
           </div>
           <div class="mb-3">
