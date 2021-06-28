@@ -4,6 +4,9 @@
 
 ![キャプチャ](https://user-images.githubusercontent.com/72890669/123565757-dfb56380-d7f8-11eb-90cb-e31176c73b0e.PNG)
 
+## ER図
+
+
 ## 使用技術
 - Ruby
 - Ruby on Rails 
@@ -13,7 +16,7 @@
 - BootStrap
 
 ## 機能一覧
-- ユーザー登録、ログイン機能(device)
+- ユーザー登録、ログイン機能(Device)
 - 画像投稿(CarrierWave、MiniMagick)
 - いいね機能(Ajax)
 - コメント機能(Ajax)
