@@ -1,6 +1,6 @@
 
 ### ご確認いただきありがとうございます。お家のリフォームした後の写真を投稿するアプリを開発しました。
-- https://reformgram-app.herokuapp.com/
+- URL https://reformgram-app.herokuapp.com/
 
 ![キャプチャ](https://user-images.githubusercontent.com/72890669/123565757-dfb56380-d7f8-11eb-90cb-e31176c73b0e.PNG)
 
