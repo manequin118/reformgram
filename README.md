@@ -20,7 +20,7 @@
 
 ## 参考資料
 - https://qiita.com/tobita0000/items/866de191635e6d74e392
-- https://qiita.com/yasuno0327/items/ff17ddb6a4167fc6b471
+- [devise にusername カラムを追加し、usernameを登録できるようにする。]https://qiita.com/yasuno0327/items/ff17ddb6a4167fc6b471
 - https://www.transnet.ne.jp/2016/05/18/rails%E5%88%9D%E5%AD%A6%E8%80%85%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BCcolnr/
 - https://railsguides.jp/5_1_release_notes.html#form-for%E3%81%A8form-tag%E3%81%AEform-with%E3%81%B8%E3%81%AE%E7%B5%B1%E5%90%88
 - https://easyramble.com/user-account-update-without-password-on-devise.html
