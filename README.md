@@ -19,10 +19,9 @@
 - コメント機能(Ajax)
 
 ## 参考資料
-- https://qiita.com/tobita0000/items/866de191635e6d74e392
-- [devise にusername カラムを追加し、usernameを登録できるようにする。]https://qiita.com/yasuno0327/items/ff17ddb6a4167fc6b471
-- https://www.transnet.ne.jp/2016/05/18/rails%E5%88%9D%E5%AD%A6%E8%80%85%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BCcolnr/
-- https://railsguides.jp/5_1_release_notes.html#form-for%E3%81%A8form-tag%E3%81%AEform-with%E3%81%B8%E3%81%AE%E7%B5%B1%E5%90%88
-- https://easyramble.com/user-account-update-without-password-on-devise.html
-- https://www.rubydoc.info/github/plataformatec/devise/Devise%2FRegistrationsController:after_update_path_for
-- https://railsguides.jp/active_record_querying.html#%E9%96%A2%E9%80%A3%E4%BB%98%E3%81%91%E3%82%92%E4%B8%80%E6%8B%AC%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%99%E3%82%8B
+- [Rails deviseで使えるようになるヘルパーメソッド一覧](https://qiita.com/tobita0000/items/866de191635e6d74e392)
+- [devise にusername カラムを追加し、usernameを登録できるようにする。](https://qiita.com/yasuno0327/items/ff17ddb6a4167fc6b471)
+- [Rails初学者がつまずきやすい「ストロングパラメータの仕組み」](https://www.transnet.ne.jp/2016/05/18/rails%E5%88%9D%E5%AD%A6%E8%80%85%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BCcolnr/)
+- [form_forとform_tagのform_withへの統合](https://railsguides.jp/5_1_release_notes.html#form-for%E3%81%A8form-tag%E3%81%AEform-with%E3%81%B8%E3%81%AE%E7%B5%B1%E5%90%88)
+- [Devise でユーザーがパスワードなしでアカウント情報を変更するのを許可
+](https://easyramble.com/user-account-update-without-password-on-devise.html)
