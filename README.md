@@ -10,5 +10,12 @@
 - PosgreSQL
 - Heroku
 - AWS (S3)
+- BootStrap
+
+## 機能一覧
+- ユーザー登録、ログイン機能(device)
+- 画像投稿(carrierwave)
+- いいね機能(Ajax)
+- コメント機能(Ajax)
 
 
